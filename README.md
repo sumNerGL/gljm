@@ -37,16 +37,29 @@
 ```
 
 使用说明：
+
   本体：
+  
     直接运行gljm.exe，保持后台活动即可（可以在系统托盘找到小图标）
+    
     如有需要可以添加开机启动，具体方法根据Windows版本自行搜索即可
+    
   将capslock键改为ctrl键（可选）：
+  
     运行MapKeyboard.exe
+    
     点击窗口中键盘区的Caps键
+    
     在窗口下方"Remap selected key to:"右侧的下拉框中找到并选择"LCtrl"
+    
     完成后点击下方的"Save layout"并确认（此时会自动注销系统），即可完成改键
+    
     如果需要改回来，点击窗口左下角的"Reset keyboard layout"按钮并确认即可
+    
   脚本文件：
+  
     有特殊需求的，可下载安装AutoHotkey，自行编辑gljm.ahk
+    
   其他说明：
+  
     推荐使用 QQ 拼音输入法（热键冲突情况更少）
